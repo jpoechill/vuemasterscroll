@@ -1,6 +1,7 @@
-# vuemasterscroll2
+# vuemasterscroll
 
 > A Vue.js project
+
 ![Demo](https://im5.ezgif.com/tmp/ezgif-5-c8a65acb8c.gif)
 
 ## Build Setup
